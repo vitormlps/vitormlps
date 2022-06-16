@@ -1,4 +1,4 @@
-Hi! @vitormlps // Vitor here 👋
+Hi! Vitor here 👋
 
 I'm studying Systems Analysis and Development, currently learning software engineering, OOP, web programming and databases.
 Also am interested in back-end development, dynamically typed languages, agile methodology and process organization.
